@@ -1,0 +1,9 @@
+/* CSS for SWXBlock */
+
+.swxblock_block .count {
+    font-weight: bold;
+}
+
+.swxblock_block p {
+    cursor: pointer;
+}
